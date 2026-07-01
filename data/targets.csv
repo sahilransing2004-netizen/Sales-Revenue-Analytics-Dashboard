@@ -1,0 +1,721 @@
+Month,Region,Category,TargetSales
+2022-01-01,Central,Clothing,136283.82
+2022-01-01,Central,Electronics,1783772.2
+2022-01-01,Central,Furniture,268962.57
+2022-01-01,Central,Office Supplies,28307.79
+2022-01-01,East,Clothing,52765.24
+2022-01-01,East,Electronics,124357.37
+2022-01-01,East,Furniture,219198.81
+2022-01-01,East,Office Supplies,70637.22
+2022-01-01,North,Clothing,103888.55
+2022-01-01,North,Electronics,816818.65
+2022-01-01,North,Furniture,400385.03
+2022-01-01,North,Office Supplies,22555.98
+2022-01-01,South,Clothing,80411.13
+2022-01-01,South,Electronics,1022013.8
+2022-01-01,South,Furniture,238808.34
+2022-01-01,South,Office Supplies,56870.72
+2022-01-01,West,Clothing,27377.11
+2022-01-01,West,Electronics,963398.05
+2022-01-01,West,Furniture,706252.06
+2022-01-01,West,Office Supplies,42089.26
+2022-02-01,Central,Clothing,40340.52
+2022-02-01,Central,Electronics,435971.89
+2022-02-01,Central,Furniture,373583.43
+2022-02-01,Central,Office Supplies,26097.44
+2022-02-01,East,Clothing,37450.84
+2022-02-01,East,Electronics,749744.96
+2022-02-01,East,Furniture,240532.08
+2022-02-01,East,Office Supplies,76585.85
+2022-02-01,North,Clothing,36195.71
+2022-02-01,North,Electronics,675936.27
+2022-02-01,North,Furniture,69868.98
+2022-02-01,North,Office Supplies,36457.1
+2022-02-01,South,Clothing,20397.76
+2022-02-01,South,Electronics,438788.28
+2022-02-01,South,Furniture,259802.86
+2022-02-01,South,Office Supplies,28911.09
+2022-02-01,West,Clothing,43997.21
+2022-02-01,West,Electronics,483225.15
+2022-02-01,West,Furniture,76834.46
+2022-02-01,West,Office Supplies,15639.65
+2022-03-01,Central,Clothing,101573.18
+2022-03-01,Central,Electronics,90243.48
+2022-03-01,Central,Furniture,51003.86
+2022-03-01,Central,Office Supplies,16372.47
+2022-03-01,East,Clothing,8548.96
+2022-03-01,East,Electronics,1395832.73
+2022-03-01,East,Furniture,388589.85
+2022-03-01,East,Office Supplies,48298.38
+2022-03-01,North,Clothing,44211.46
+2022-03-01,North,Electronics,352913.84
+2022-03-01,North,Furniture,177914.71
+2022-03-01,North,Office Supplies,61960.75
+2022-03-01,South,Clothing,40204.32
+2022-03-01,South,Electronics,1013579.17
+2022-03-01,South,Furniture,167190.24
+2022-03-01,South,Office Supplies,28190.33
+2022-03-01,West,Clothing,54389.26
+2022-03-01,West,Electronics,1694215.92
+2022-03-01,West,Furniture,374778.26
+2022-03-01,West,Office Supplies,17730.78
+2022-04-01,Central,Clothing,3809.11
+2022-04-01,Central,Electronics,490394.28
+2022-04-01,Central,Furniture,142247.23
+2022-04-01,Central,Office Supplies,56279.12
+2022-04-01,East,Clothing,23522.97
+2022-04-01,East,Electronics,989728.63
+2022-04-01,East,Furniture,260043.9
+2022-04-01,East,Office Supplies,55787.47
+2022-04-01,North,Clothing,34418.8
+2022-04-01,North,Electronics,133090.81
+2022-04-01,North,Furniture,222116.04
+2022-04-01,North,Office Supplies,49117.2
+2022-04-01,South,Clothing,33646.42
+2022-04-01,South,Electronics,647686.32
+2022-04-01,South,Furniture,153437.53
+2022-04-01,South,Office Supplies,15363.16
+2022-04-01,West,Clothing,21352.49
+2022-04-01,West,Electronics,540081.98
+2022-04-01,West,Furniture,322535.91
+2022-04-01,West,Office Supplies,41020.22
+2022-05-01,Central,Clothing,49738.13
+2022-05-01,Central,Electronics,786040.45
+2022-05-01,Central,Furniture,328027.41
+2022-05-01,Central,Office Supplies,16328.27
+2022-05-01,East,Clothing,70193.23
+2022-05-01,East,Electronics,656457.74
+2022-05-01,East,Furniture,76133.04
+2022-05-01,East,Office Supplies,11709.16
+2022-05-01,North,Clothing,53380.89
+2022-05-01,North,Electronics,1066426.59
+2022-05-01,North,Furniture,60212.91
+2022-05-01,North,Office Supplies,81142.06
+2022-05-01,South,Clothing,17113.86
+2022-05-01,South,Electronics,520951.59
+2022-05-01,South,Furniture,131241.27
+2022-05-01,South,Office Supplies,29953.01
+2022-05-01,West,Clothing,84535.6
+2022-05-01,West,Electronics,794640.4
+2022-05-01,West,Furniture,221033.33
+2022-05-01,West,Office Supplies,61233.34
+2022-06-01,Central,Clothing,87499.71
+2022-06-01,Central,Electronics,733052.91
+2022-06-01,Central,Furniture,290402.5
+2022-06-01,Central,Office Supplies,23350.29
+2022-06-01,East,Clothing,76986.66
+2022-06-01,East,Electronics,549287.71
+2022-06-01,East,Furniture,68841.08
+2022-06-01,East,Office Supplies,19527.93
+2022-06-01,North,Clothing,38167.77
+2022-06-01,North,Electronics,552004.4
+2022-06-01,North,Furniture,249661.89
+2022-06-01,North,Office Supplies,50823.81
+2022-06-01,South,Clothing,5743.68
+2022-06-01,South,Electronics,493921.91
+2022-06-01,South,Furniture,264836.38
+2022-06-01,South,Office Supplies,56643.31
+2022-06-01,West,Clothing,26367.25
+2022-06-01,West,Electronics,677900.08
+2022-06-01,West,Furniture,266532.45
+2022-06-01,West,Office Supplies,64817.98
+2022-07-01,Central,Clothing,57123.94
+2022-07-01,Central,Electronics,718653.22
+2022-07-01,Central,Furniture,323137.59
+2022-07-01,Central,Office Supplies,64598.02
+2022-07-01,East,Clothing,19629.25
+2022-07-01,East,Electronics,1419683.54
+2022-07-01,East,Furniture,153018.09
+2022-07-01,East,Office Supplies,17037.97
+2022-07-01,North,Clothing,65878.8
+2022-07-01,North,Electronics,829095.52
+2022-07-01,North,Furniture,155449.24
+2022-07-01,North,Office Supplies,14592.49
+2022-07-01,South,Clothing,37328.17
+2022-07-01,South,Electronics,1366508.07
+2022-07-01,South,Furniture,178915.65
+2022-07-01,South,Office Supplies,22397.9
+2022-07-01,West,Clothing,13568.36
+2022-07-01,West,Electronics,587257.57
+2022-07-01,West,Furniture,263491.83
+2022-08-01,Central,Clothing,56451.79
+2022-08-01,Central,Electronics,640903.46
+2022-08-01,Central,Furniture,177737.67
+2022-08-01,Central,Office Supplies,74333.65
+2022-08-01,East,Clothing,149651.07
+2022-08-01,East,Electronics,497819.99
+2022-08-01,East,Furniture,20836.04
+2022-08-01,East,Office Supplies,52059.81
+2022-08-01,North,Clothing,46835.31
+2022-08-01,North,Electronics,808313.46
+2022-08-01,North,Furniture,294505.85
+2022-08-01,North,Office Supplies,60203.79
+2022-08-01,South,Electronics,1005913.6
+2022-08-01,South,Furniture,319691.86
+2022-08-01,South,Office Supplies,22743.52
+2022-08-01,West,Clothing,7000.56
+2022-08-01,West,Electronics,507928.22
+2022-08-01,West,Furniture,176546.93
+2022-08-01,West,Office Supplies,12960.19
+2022-09-01,Central,Clothing,93885.55
+2022-09-01,Central,Electronics,855876.92
+2022-09-01,Central,Furniture,495257.84
+2022-09-01,Central,Office Supplies,52466.1
+2022-09-01,East,Clothing,25925.56
+2022-09-01,East,Electronics,600991.26
+2022-09-01,East,Furniture,285441.64
+2022-09-01,East,Office Supplies,8893.64
+2022-09-01,North,Clothing,91588.89
+2022-09-01,North,Electronics,446425.17
+2022-09-01,North,Furniture,288612.06
+2022-09-01,North,Office Supplies,68265.2
+2022-09-01,South,Clothing,60800.64
+2022-09-01,South,Electronics,448776.52
+2022-09-01,South,Furniture,142336.28
+2022-09-01,South,Office Supplies,38630.78
+2022-09-01,West,Clothing,115321.68
+2022-09-01,West,Electronics,979007.28
+2022-09-01,West,Furniture,135561.14
+2022-09-01,West,Office Supplies,81188.72
+2022-10-01,Central,Clothing,19569.17
+2022-10-01,Central,Electronics,1542880.76
+2022-10-01,Central,Furniture,226943.01
+2022-10-01,Central,Office Supplies,31627.46
+2022-10-01,East,Electronics,1327373.26
+2022-10-01,East,Furniture,491928.89
+2022-10-01,East,Office Supplies,51884.55
+2022-10-01,North,Clothing,64578.64
+2022-10-01,North,Electronics,1138784.77
+2022-10-01,North,Furniture,184394.64
+2022-10-01,North,Office Supplies,22002.56
+2022-10-01,South,Clothing,13647.86
+2022-10-01,South,Electronics,1337283.26
+2022-10-01,South,Furniture,139428.15
+2022-10-01,South,Office Supplies,53447.99
+2022-10-01,West,Clothing,131562.36
+2022-10-01,West,Electronics,382269.75
+2022-10-01,West,Furniture,335473.13
+2022-10-01,West,Office Supplies,49964.5
+2022-11-01,Central,Clothing,65559.25
+2022-11-01,Central,Electronics,611252.53
+2022-11-01,Central,Office Supplies,32153.39
+2022-11-01,East,Clothing,28299.91
+2022-11-01,East,Electronics,1205478.04
+2022-11-01,East,Furniture,241241.12
+2022-11-01,East,Office Supplies,15612.99
+2022-11-01,North,Clothing,64325.6
+2022-11-01,North,Electronics,647689.95
+2022-11-01,North,Furniture,96048.11
+2022-11-01,North,Office Supplies,20617.79
+2022-11-01,South,Clothing,39991.92
+2022-11-01,South,Electronics,1788902.68
+2022-11-01,South,Furniture,157020.4
+2022-11-01,South,Office Supplies,30573.83
+2022-11-01,West,Electronics,1826688.16
+2022-11-01,West,Furniture,496213.88
+2022-11-01,West,Office Supplies,5129.27
+2022-12-01,Central,Clothing,67477.62
+2022-12-01,Central,Electronics,1491655.18
+2022-12-01,Central,Furniture,765214.16
+2022-12-01,Central,Office Supplies,37778.87
+2022-12-01,East,Clothing,47752.45
+2022-12-01,East,Electronics,564778.03
+2022-12-01,East,Furniture,333973.55
+2022-12-01,East,Office Supplies,5728.71
+2022-12-01,North,Clothing,42278.03
+2022-12-01,North,Electronics,882846.34
+2022-12-01,North,Furniture,481659.43
+2022-12-01,North,Office Supplies,12336.04
+2022-12-01,South,Clothing,34331.8
+2022-12-01,South,Electronics,1060272.48
+2022-12-01,South,Furniture,157708.04
+2022-12-01,South,Office Supplies,16514.28
+2022-12-01,West,Clothing,12709.41
+2022-12-01,West,Electronics,429941.58
+2022-12-01,West,Furniture,472882.17
+2022-12-01,West,Office Supplies,15379.79
+2023-01-01,Central,Clothing,27336.96
+2023-01-01,Central,Electronics,651922.74
+2023-01-01,Central,Furniture,253763.28
+2023-01-01,Central,Office Supplies,68241.03
+2023-01-01,East,Clothing,39887.62
+2023-01-01,East,Electronics,772882.16
+2023-01-01,East,Furniture,235388.97
+2023-01-01,East,Office Supplies,19641.4
+2023-01-01,North,Clothing,24788.58
+2023-01-01,North,Electronics,1080382.95
+2023-01-01,North,Furniture,398754.32
+2023-01-01,North,Office Supplies,25047.94
+2023-01-01,South,Clothing,18416.74
+2023-01-01,South,Electronics,1894078.66
+2023-01-01,South,Furniture,53619.83
+2023-01-01,South,Office Supplies,18626.69
+2023-01-01,West,Clothing,62497.09
+2023-01-01,West,Electronics,950024.2
+2023-01-01,West,Furniture,216566.56
+2023-01-01,West,Office Supplies,89549.53
+2023-02-01,Central,Clothing,12936.49
+2023-02-01,Central,Electronics,521560.33
+2023-02-01,Central,Furniture,217839.46
+2023-02-01,Central,Office Supplies,52911.2
+2023-02-01,East,Clothing,53542.98
+2023-02-01,East,Electronics,1161510.06
+2023-02-01,East,Office Supplies,24743.81
+2023-02-01,North,Clothing,47646.49
+2023-02-01,North,Electronics,906723.46
+2023-02-01,North,Furniture,123958.65
+2023-02-01,North,Office Supplies,37608.16
+2023-02-01,South,Clothing,58857.45
+2023-02-01,South,Electronics,127148.91
+2023-02-01,South,Furniture,336303.89
+2023-02-01,South,Office Supplies,59435.81
+2023-02-01,West,Electronics,832220.22
+2023-02-01,West,Furniture,345600.51
+2023-02-01,West,Office Supplies,15909.31
+2023-03-01,Central,Clothing,1391.98
+2023-03-01,Central,Electronics,755151.97
+2023-03-01,Central,Furniture,4727.16
+2023-03-01,Central,Office Supplies,14313.14
+2023-03-01,East,Clothing,17248.61
+2023-03-01,East,Electronics,1120229.52
+2023-03-01,East,Furniture,232187.99
+2023-03-01,East,Office Supplies,14394.42
+2023-03-01,North,Clothing,20257.44
+2023-03-01,North,Electronics,477880.09
+2023-03-01,North,Furniture,102663.86
+2023-03-01,North,Office Supplies,50244.37
+2023-03-01,South,Clothing,45049.25
+2023-03-01,South,Electronics,911339.51
+2023-03-01,South,Furniture,339052.06
+2023-03-01,South,Office Supplies,20284.37
+2023-03-01,West,Clothing,28468.94
+2023-03-01,West,Electronics,956484.58
+2023-03-01,West,Furniture,331367.64
+2023-03-01,West,Office Supplies,54483.23
+2023-04-01,Central,Clothing,50484.64
+2023-04-01,Central,Electronics,1191243.17
+2023-04-01,Central,Furniture,273575.36
+2023-04-01,Central,Office Supplies,51144.71
+2023-04-01,East,Clothing,58448.74
+2023-04-01,East,Electronics,811443.94
+2023-04-01,East,Furniture,50989.93
+2023-04-01,East,Office Supplies,86754.15
+2023-04-01,North,Clothing,41215.06
+2023-04-01,North,Electronics,907090.31
+2023-04-01,North,Office Supplies,5117.18
+2023-04-01,South,Clothing,13764.79
+2023-04-01,South,Electronics,1245751.77
+2023-04-01,South,Furniture,133057.23
+2023-04-01,South,Office Supplies,101949.32
+2023-04-01,West,Clothing,15846.06
+2023-04-01,West,Electronics,1255998.89
+2023-04-01,West,Furniture,163855.53
+2023-04-01,West,Office Supplies,46525.31
+2023-05-01,Central,Clothing,33909.1
+2023-05-01,Central,Electronics,1182524.52
+2023-05-01,Central,Furniture,490461.26
+2023-05-01,Central,Office Supplies,42250.56
+2023-05-01,East,Clothing,90775.7
+2023-05-01,East,Electronics,491769.09
+2023-05-01,East,Furniture,111261.81
+2023-05-01,East,Office Supplies,9559.47
+2023-05-01,North,Clothing,2929.08
+2023-05-01,North,Electronics,1288580.93
+2023-05-01,North,Furniture,437523.14
+2023-05-01,North,Office Supplies,25567.76
+2023-05-01,South,Clothing,67175.99
+2023-05-01,South,Electronics,609117.53
+2023-05-01,South,Furniture,36605.15
+2023-05-01,South,Office Supplies,70238.93
+2023-05-01,West,Clothing,7638.44
+2023-05-01,West,Electronics,722399.3
+2023-05-01,West,Office Supplies,61524.6
+2023-06-01,Central,Clothing,23248.33
+2023-06-01,Central,Electronics,610622.08
+2023-06-01,Central,Furniture,211873.66
+2023-06-01,Central,Office Supplies,2257.79
+2023-06-01,East,Clothing,63072.52
+2023-06-01,East,Electronics,1266628.28
+2023-06-01,East,Furniture,195367.53
+2023-06-01,East,Office Supplies,29935.42
+2023-06-01,North,Clothing,96568.52
+2023-06-01,North,Electronics,743252.29
+2023-06-01,North,Furniture,194863.11
+2023-06-01,North,Office Supplies,5116.19
+2023-06-01,South,Clothing,70897.99
+2023-06-01,South,Electronics,621834.85
+2023-06-01,South,Furniture,121049.23
+2023-06-01,South,Office Supplies,50319.51
+2023-06-01,West,Clothing,23442.83
+2023-06-01,West,Electronics,690262.94
+2023-06-01,West,Furniture,286575.45
+2023-06-01,West,Office Supplies,13147.91
+2023-07-01,Central,Clothing,75171.98
+2023-07-01,Central,Electronics,554996.58
+2023-07-01,Central,Furniture,77636.83
+2023-07-01,Central,Office Supplies,119732.85
+2023-07-01,East,Clothing,22747.8
+2023-07-01,East,Electronics,755810.49
+2023-07-01,East,Furniture,195998.81
+2023-07-01,East,Office Supplies,45848.66
+2023-07-01,North,Electronics,517691.22
+2023-07-01,North,Furniture,224674.1
+2023-07-01,North,Office Supplies,82772.45
+2023-07-01,South,Clothing,112882.67
+2023-07-01,South,Electronics,1002214.38
+2023-07-01,South,Furniture,455027.47
+2023-07-01,South,Office Supplies,33276.17
+2023-07-01,West,Clothing,62946.06
+2023-07-01,West,Electronics,1993993.52
+2023-07-01,West,Furniture,357731.82
+2023-07-01,West,Office Supplies,21466.35
+2023-08-01,Central,Clothing,52852.51
+2023-08-01,Central,Electronics,872849.92
+2023-08-01,Central,Furniture,89707.56
+2023-08-01,Central,Office Supplies,19461.08
+2023-08-01,East,Clothing,78009.89
+2023-08-01,East,Electronics,501090.4
+2023-08-01,East,Furniture,255472.23
+2023-08-01,East,Office Supplies,35726.74
+2023-08-01,North,Clothing,63740.44
+2023-08-01,North,Electronics,821361.34
+2023-08-01,North,Furniture,7298.53
+2023-08-01,North,Office Supplies,45539.99
+2023-08-01,South,Clothing,71904.56
+2023-08-01,South,Electronics,805796.04
+2023-08-01,South,Furniture,176097.31
+2023-08-01,South,Office Supplies,86889.84
+2023-08-01,West,Clothing,91436.53
+2023-08-01,West,Electronics,759902.76
+2023-08-01,West,Furniture,209000.97
+2023-08-01,West,Office Supplies,47203.77
+2023-09-01,Central,Clothing,19032.98
+2023-09-01,Central,Electronics,344367.05
+2023-09-01,Central,Furniture,139618.19
+2023-09-01,Central,Office Supplies,69593.72
+2023-09-01,East,Clothing,45034.77
+2023-09-01,East,Electronics,1078494.53
+2023-09-01,East,Furniture,230108.54
+2023-09-01,East,Office Supplies,39919.58
+2023-09-01,North,Clothing,49969.74
+2023-09-01,North,Electronics,1510621.69
+2023-09-01,North,Furniture,395093.05
+2023-09-01,North,Office Supplies,25624.23
+2023-09-01,South,Clothing,68880.56
+2023-09-01,South,Electronics,1842170.37
+2023-09-01,South,Office Supplies,31749.32
+2023-09-01,West,Clothing,28171.77
+2023-09-01,West,Electronics,660033.71
+2023-09-01,West,Furniture,104760.43
+2023-09-01,West,Office Supplies,45493.2
+2023-10-01,Central,Clothing,47761.66
+2023-10-01,Central,Electronics,1103164.23
+2023-10-01,Central,Furniture,419120.35
+2023-10-01,Central,Office Supplies,45462.86
+2023-10-01,East,Clothing,9790.96
+2023-10-01,East,Electronics,664960.69
+2023-10-01,East,Furniture,9379.51
+2023-10-01,East,Office Supplies,22623.5
+2023-10-01,North,Clothing,43967.91
+2023-10-01,North,Electronics,1126079.11
+2023-10-01,North,Furniture,259931.82
+2023-10-01,North,Office Supplies,6141.42
+2023-10-01,South,Clothing,56671.21
+2023-10-01,South,Electronics,526372.35
+2023-10-01,South,Furniture,163312.74
+2023-10-01,South,Office Supplies,30049.8
+2023-10-01,West,Clothing,27580.66
+2023-10-01,West,Electronics,699190.29
+2023-10-01,West,Furniture,125596.94
+2023-10-01,West,Office Supplies,33095.18
+2023-11-01,Central,Clothing,183743.27
+2023-11-01,Central,Electronics,526561.39
+2023-11-01,Central,Furniture,134551.94
+2023-11-01,Central,Office Supplies,29209.18
+2023-11-01,East,Clothing,25617.35
+2023-11-01,East,Electronics,852028.1
+2023-11-01,East,Furniture,130433.36
+2023-11-01,East,Office Supplies,51841.99
+2023-11-01,North,Clothing,44563.69
+2023-11-01,North,Electronics,957863.64
+2023-11-01,North,Furniture,121323.58
+2023-11-01,North,Office Supplies,15077.79
+2023-11-01,South,Clothing,109352.6
+2023-11-01,South,Electronics,1511914.33
+2023-11-01,South,Furniture,411813.41
+2023-11-01,South,Office Supplies,74517.18
+2023-11-01,West,Clothing,9725.17
+2023-11-01,West,Electronics,1228442.03
+2023-11-01,West,Furniture,192427.06
+2023-11-01,West,Office Supplies,4551.91
+2023-12-01,Central,Clothing,11267.48
+2023-12-01,Central,Electronics,611112.83
+2023-12-01,Central,Furniture,98520.88
+2023-12-01,Central,Office Supplies,28504.96
+2023-12-01,East,Clothing,79511.27
+2023-12-01,East,Electronics,1127093.3
+2023-12-01,East,Furniture,324466.84
+2023-12-01,East,Office Supplies,27507.38
+2023-12-01,North,Clothing,40047.06
+2023-12-01,North,Electronics,631520.68
+2023-12-01,North,Furniture,200296.03
+2023-12-01,North,Office Supplies,57417.04
+2023-12-01,South,Clothing,53132.25
+2023-12-01,South,Electronics,1131584.06
+2023-12-01,South,Furniture,441139.87
+2023-12-01,South,Office Supplies,16745.95
+2023-12-01,West,Clothing,50231.15
+2023-12-01,West,Electronics,506835.83
+2023-12-01,West,Furniture,85532.55
+2023-12-01,West,Office Supplies,30876.48
+2024-01-01,Central,Electronics,493733.42
+2024-01-01,Central,Furniture,84503.05
+2024-01-01,Central,Office Supplies,35753.95
+2024-01-01,East,Clothing,32503.37
+2024-01-01,East,Electronics,464950.49
+2024-01-01,East,Furniture,102767.71
+2024-01-01,East,Office Supplies,106833.88
+2024-01-01,North,Clothing,9099.73
+2024-01-01,North,Electronics,1955513.17
+2024-01-01,North,Furniture,121654.91
+2024-01-01,North,Office Supplies,6660.86
+2024-01-01,South,Clothing,48452.36
+2024-01-01,South,Electronics,717174.21
+2024-01-01,South,Furniture,190632.69
+2024-01-01,South,Office Supplies,40621.79
+2024-01-01,West,Clothing,33205.97
+2024-01-01,West,Electronics,2097082.07
+2024-01-01,West,Furniture,16017.8
+2024-01-01,West,Office Supplies,130437.59
+2024-02-01,Central,Clothing,64965.84
+2024-02-01,Central,Electronics,447923.47
+2024-02-01,Central,Furniture,348396.69
+2024-02-01,Central,Office Supplies,66774.7
+2024-02-01,East,Clothing,52266.14
+2024-02-01,East,Electronics,502937.34
+2024-02-01,East,Furniture,57046.32
+2024-02-01,East,Office Supplies,62400.29
+2024-02-01,North,Clothing,20170.19
+2024-02-01,North,Electronics,211685.61
+2024-02-01,North,Furniture,322477.91
+2024-02-01,North,Office Supplies,71439.97
+2024-02-01,South,Clothing,70983.63
+2024-02-01,South,Electronics,1214647.75
+2024-02-01,South,Furniture,245403.05
+2024-02-01,South,Office Supplies,16547.27
+2024-02-01,West,Clothing,68381.21
+2024-02-01,West,Electronics,1222267.68
+2024-02-01,West,Furniture,190576.72
+2024-02-01,West,Office Supplies,22867.48
+2024-03-01,Central,Clothing,69353.08
+2024-03-01,Central,Electronics,2108025.34
+2024-03-01,Central,Furniture,327987.05
+2024-03-01,Central,Office Supplies,29469.3
+2024-03-01,East,Clothing,24871.74
+2024-03-01,East,Electronics,338630.99
+2024-03-01,East,Furniture,279376.92
+2024-03-01,East,Office Supplies,12296.6
+2024-03-01,North,Clothing,128149.59
+2024-03-01,North,Electronics,1390487.13
+2024-03-01,North,Furniture,145607.29
+2024-03-01,North,Office Supplies,43498.43
+2024-03-01,South,Clothing,148692.69
+2024-03-01,South,Electronics,1096314.34
+2024-03-01,South,Furniture,239345.53
+2024-03-01,South,Office Supplies,47159.43
+2024-03-01,West,Clothing,25183.73
+2024-03-01,West,Electronics,1525529.03
+2024-03-01,West,Furniture,171362.66
+2024-03-01,West,Office Supplies,59885.85
+2024-04-01,Central,Clothing,131799.04
+2024-04-01,Central,Electronics,1087818.25
+2024-04-01,Central,Furniture,279910.16
+2024-04-01,Central,Office Supplies,12881.31
+2024-04-01,East,Clothing,94058.36
+2024-04-01,East,Electronics,700079.74
+2024-04-01,East,Furniture,419123.69
+2024-04-01,East,Office Supplies,25878.46
+2024-04-01,North,Electronics,1435829.47
+2024-04-01,North,Furniture,116233.49
+2024-04-01,North,Office Supplies,4203.53
+2024-04-01,South,Clothing,94392.26
+2024-04-01,South,Electronics,1033983.17
+2024-04-01,South,Furniture,383829.19
+2024-04-01,South,Office Supplies,58695.64
+2024-04-01,West,Clothing,85508.13
+2024-04-01,West,Electronics,350521.96
+2024-04-01,West,Furniture,92209.13
+2024-04-01,West,Office Supplies,54126.99
+2024-05-01,Central,Clothing,27585.33
+2024-05-01,Central,Electronics,717556.41
+2024-05-01,Central,Furniture,8187.94
+2024-05-01,Central,Office Supplies,84060.78
+2024-05-01,East,Clothing,61035.36
+2024-05-01,East,Electronics,1004808.89
+2024-05-01,East,Furniture,356394.66
+2024-05-01,East,Office Supplies,50177.57
+2024-05-01,North,Clothing,92062.85
+2024-05-01,North,Electronics,1253717.57
+2024-05-01,North,Furniture,138151.79
+2024-05-01,North,Office Supplies,45244.34
+2024-05-01,South,Clothing,63982.35
+2024-05-01,South,Electronics,1544399.18
+2024-05-01,South,Furniture,260058.03
+2024-05-01,South,Office Supplies,6272.49
+2024-05-01,West,Clothing,27518.47
+2024-05-01,West,Electronics,527690.19
+2024-05-01,West,Furniture,552979.76
+2024-05-01,West,Office Supplies,32006.24
+2024-06-01,Central,Clothing,37444.06
+2024-06-01,Central,Electronics,587854.8
+2024-06-01,Central,Furniture,198315.86
+2024-06-01,Central,Office Supplies,15992.08
+2024-06-01,East,Clothing,3642.74
+2024-06-01,East,Electronics,502510.62
+2024-06-01,East,Furniture,291798.18
+2024-06-01,East,Office Supplies,76110.53
+2024-06-01,North,Clothing,70898.12
+2024-06-01,North,Electronics,430581.71
+2024-06-01,North,Furniture,73277.1
+2024-06-01,North,Office Supplies,73466.78
+2024-06-01,South,Clothing,61400.98
+2024-06-01,South,Electronics,546535.14
+2024-06-01,South,Furniture,235637.63
+2024-06-01,South,Office Supplies,38505.11
+2024-06-01,West,Clothing,43353.19
+2024-06-01,West,Electronics,1005275.97
+2024-06-01,West,Furniture,321001.47
+2024-06-01,West,Office Supplies,16791.64
+2024-07-01,Central,Clothing,31515.69
+2024-07-01,Central,Electronics,1030195.12
+2024-07-01,Central,Furniture,6055.04
+2024-07-01,Central,Office Supplies,29516.73
+2024-07-01,East,Clothing,110954.45
+2024-07-01,East,Electronics,1166809.04
+2024-07-01,East,Furniture,424295.77
+2024-07-01,East,Office Supplies,7994.82
+2024-07-01,North,Clothing,67649.77
+2024-07-01,North,Electronics,917465.66
+2024-07-01,North,Furniture,284583.46
+2024-07-01,North,Office Supplies,32487.14
+2024-07-01,South,Electronics,511664.03
+2024-07-01,South,Furniture,510984.21
+2024-07-01,South,Office Supplies,1627.54
+2024-07-01,West,Clothing,76951.39
+2024-07-01,West,Electronics,872839.55
+2024-07-01,West,Furniture,355544.43
+2024-07-01,West,Office Supplies,73991.02
+2024-08-01,Central,Clothing,31802.9
+2024-08-01,Central,Electronics,1492208.03
+2024-08-01,Central,Furniture,372537.21
+2024-08-01,Central,Office Supplies,49166.49
+2024-08-01,East,Clothing,57601.73
+2024-08-01,East,Electronics,725791.03
+2024-08-01,East,Furniture,64584.63
+2024-08-01,East,Office Supplies,31147.95
+2024-08-01,North,Clothing,78051.38
+2024-08-01,North,Electronics,955234.97
+2024-08-01,North,Furniture,446228.11
+2024-08-01,North,Office Supplies,37717.41
+2024-08-01,South,Clothing,98493.49
+2024-08-01,South,Electronics,615803.64
+2024-08-01,South,Furniture,95836.59
+2024-08-01,South,Office Supplies,41031.07
+2024-08-01,West,Clothing,16875.85
+2024-08-01,West,Electronics,963762.3
+2024-08-01,West,Furniture,394043.2
+2024-08-01,West,Office Supplies,26455.32
+2024-09-01,Central,Clothing,37605.65
+2024-09-01,Central,Electronics,959472.03
+2024-09-01,Central,Furniture,223745.49
+2024-09-01,Central,Office Supplies,16100.53
+2024-09-01,East,Clothing,54474.65
+2024-09-01,East,Electronics,1242924.0
+2024-09-01,East,Furniture,418159.47
+2024-09-01,East,Office Supplies,52387.04
+2024-09-01,North,Clothing,79480.23
+2024-09-01,North,Electronics,1813553.89
+2024-09-01,North,Furniture,200999.72
+2024-09-01,North,Office Supplies,33484.72
+2024-09-01,South,Clothing,4892.9
+2024-09-01,South,Electronics,1330851.99
+2024-09-01,South,Furniture,599048.8
+2024-09-01,South,Office Supplies,35063.22
+2024-09-01,West,Clothing,12386.65
+2024-09-01,West,Electronics,2020815.4
+2024-09-01,West,Furniture,61113.28
+2024-09-01,West,Office Supplies,35712.78
+2024-10-01,Central,Clothing,47245.21
+2024-10-01,Central,Electronics,1938582.21
+2024-10-01,Central,Furniture,295470.89
+2024-10-01,Central,Office Supplies,8738.16
+2024-10-01,East,Clothing,58503.68
+2024-10-01,East,Electronics,170569.42
+2024-10-01,East,Office Supplies,23815.78
+2024-10-01,North,Clothing,78183.72
+2024-10-01,North,Electronics,411138.03
+2024-10-01,North,Furniture,567903.58
+2024-10-01,North,Office Supplies,11867.39
+2024-10-01,South,Clothing,42415.13
+2024-10-01,South,Electronics,1081230.57
+2024-10-01,South,Furniture,281646.64
+2024-10-01,South,Office Supplies,40088.08
+2024-10-01,West,Clothing,39067.87
+2024-10-01,West,Electronics,1229717.83
+2024-10-01,West,Furniture,189002.18
+2024-10-01,West,Office Supplies,54016.39
+2024-11-01,Central,Clothing,69389.27
+2024-11-01,Central,Electronics,1048541.93
+2024-11-01,Central,Furniture,333271.95
+2024-11-01,Central,Office Supplies,15458.47
+2024-11-01,East,Clothing,49998.4
+2024-11-01,East,Electronics,292259.82
+2024-11-01,East,Furniture,174875.3
+2024-11-01,East,Office Supplies,29684.27
+2024-11-01,North,Clothing,12583.51
+2024-11-01,North,Electronics,1070114.4
+2024-11-01,North,Furniture,368546.25
+2024-11-01,North,Office Supplies,66023.33
+2024-11-01,South,Clothing,72722.7
+2024-11-01,South,Electronics,776882.71
+2024-11-01,South,Furniture,219614.92
+2024-11-01,South,Office Supplies,20050.29
+2024-11-01,West,Clothing,39290.03
+2024-11-01,West,Electronics,190609.71
+2024-11-01,West,Furniture,274035.86
+2024-11-01,West,Office Supplies,39324.2
+2024-12-01,Central,Clothing,44345.88
+2024-12-01,Central,Electronics,317623.94
+2024-12-01,Central,Furniture,115987.57
+2024-12-01,Central,Office Supplies,47203.07
+2024-12-01,East,Clothing,26512.9
+2024-12-01,East,Electronics,1316982.09
+2024-12-01,East,Furniture,99008.52
+2024-12-01,East,Office Supplies,78880.33
+2024-12-01,North,Clothing,92747.06
+2024-12-01,North,Electronics,1353127.45
+2024-12-01,North,Furniture,260976.7
+2024-12-01,North,Office Supplies,20082.94
+2024-12-01,South,Clothing,73775.26
+2024-12-01,South,Electronics,874954.11
+2024-12-01,South,Furniture,208188.83
+2024-12-01,South,Office Supplies,23156.44
+2024-12-01,West,Clothing,69400.53
+2024-12-01,West,Electronics,1132540.38
+2024-12-01,West,Furniture,367907.52
+2024-12-01,West,Office Supplies,54079.84
+2022-02-01,West,Electronics,451761.26
+2023-01-01,Central,Clothing,29193.27
+2022-04-01,South,Clothing,36433.67
+2024-09-01,West,Office Supplies,35009.08
+2022-08-01,East,Electronics,530026.8
+2022-07-01,North,Electronics,787625.73
+2024-06-01,West,Clothing,40232.35
+2024-03-01,Central,Clothing,66799.2
+2023-09-01,Central,Clothing,18430.3
+2023-03-01,North,Clothing,19841.59
+2022-10-01,Central,Clothing,19071.95
+2023-03-01,Central,Office Supplies,14058.78
+2023-01-01,West,Office Supplies,93311.21
+2023-07-01,East,Furniture,186025.61
+2023-12-01,West,Office Supplies,27903.54
